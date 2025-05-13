@@ -48,9 +48,8 @@
 
 
 ## Output:
-![1a](https://github.com/user-attachments/assets/5ee61f0d-dab7-40d0-8d9f-227bd12b0506)
-
-![1b](https://github.com/user-attachments/assets/08555e35-2428-4dd9-9b47-a79581a73d60)
+![Screenshot 2025-05-13 154604](https://github.com/user-attachments/assets/dcd26e39-4e75-41e2-a753-459486a8dffc)
+![Screenshot 2025-05-13 154620](https://github.com/user-attachments/assets/f3b1be8f-ca46-495b-aebe-f75df9016801)
 
 ### Name: YAZHINI R R
 ### Register Number: 212224100063
